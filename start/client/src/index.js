@@ -1,5 +1,4 @@
 import './style.css';
-import { BACKEND_URL } from './env';
 
 const app = new Vue({
     el: '#app',
